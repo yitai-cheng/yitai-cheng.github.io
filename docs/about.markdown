@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Yitai Cheng](/assets/images/yitai-cheng.jpg)
+![Yitai Cheng](/assets/images/yitai-cheng.JPG)
 
 
 Hi, My name is Yitai Cheng (程翊泰 in Chinese). I am currently seeking Ph.D. positions in Artificial Intelligence and Machine Learning related fields. 
