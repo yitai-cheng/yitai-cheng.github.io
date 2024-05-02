@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/yitai-cheng.JPG" width="100" style="vertical-align: top;"> Hi, My name is Yitai Cheng (程翊泰 in Chinese). I am currently seeking Ph.D. positions in Artificial Intelligence and Machine Learning related fields. 
+<img src="/assets/images/yitai-cheng.JPG" width="100" style="float: left; margin-right: 10px;"> Hi, My name is Yitai Cheng (程翊泰 in Chinese). I am currently seeking Ph.D. positions in Artificial Intelligence and Machine Learning related fields. 
 
 
 I obtained my MSc Integrated Machine Learning Systems with distinction from University College London in December 2023. Before that I was an undergraduate student studying Telecommunications Engineering with Management registered in Queen Mary University of London and Beijing University of Posts and Telecommunications. I was awarded First Class Honours for my BSc(Eng) Telecommunications Engineering with Management by Queen Mary University of London.
