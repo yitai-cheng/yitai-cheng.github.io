@@ -11,6 +11,7 @@ I obtained my MSc Integrated Machine Learning Systems with distinction from Univ
 
 During My MSc, I did several projects related to machine learning, data science and software engineering.
 <div style="margin-left: 20px;">
+  
 **MSc Research Project**: On-the-Sphere Residual Learning for Neural Compression of 360-degree Videos 
 <br>
 This project focus on the synergy of two current learning methods for video. The first is neural video compression, which improves traditional one certain steps. Traditional compression captures motion between consecutive frames and performs linear transform and quantisation methods over the residual information in each frame to be encoded. Differently, neural video compression uses methods such as convolutional neural networks (CNNs) to capture motion and encoder-decoder architectures to propose to compress residual data. The second is spherical convolutional neural networks (CNNs) for 360-degree videos. The current compression of such 360-degree videos intensively relies on 2D planar projection and suffers from its distortion (e.g., poles are more sampled than equator). Therefore, neural compression using CNNs, which focus on 2D convolution over planar data, is damaged when applied to 360 videos. Some authors have evaluated the benefit of using spherical convolutions in learning tasks for 360 images. The project is experiments-oriented, and the student will focus on implementing neural compression methods but changing the CNN steps by ones using spherical convolutions.
@@ -40,8 +41,8 @@ A malignant tumor in the brain is a life-threatening condition. The presence of 
 <br>
 Recurrent Neural Networks (RNNs) are powerful models that have achieved excellent performance on sequence learning tasks. Although RNNs work well whenever large labeled training sets are available, they suffer from dealing with long squences. In this project, we present a general end-to-end approach to sequence learning that uses an encoder to map the input sequence to a context vector, and then another decoder to convert the vector to the target sequence. Then, we introduce attention mechanism enabling the decoder to focus on a certain part of the input sequence in each decoding step. Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the sequence to sequence model with greedy search algorithm achieve a BLEU score of 23.57 on the entire test set, where the LSTM’s BLEU score was penalized on out-of-vocabulary words. Additionally, beam search could improve the model performance due to its ability to explore on a larger result set. For comparison, a sequence to sequence model with beam size 2 achieves a BLEU score of 24.24 on the same test-set. Moreover, the upgraded sequence to sequence with attention model also achieves a higher BLEU score of 25.33 with greedy search. Finally, we found that stacking more than one LSTM (Multi-Layer LSTM) will improve the model’s performance markedly, because LSTM networks with multiple layers have higher modeling capacity compared to single-layer LSTM networks.
 <br>
-</div>
 [[Python code]](https://github.com/yitai-cheng/ELEC0141_Project) [[Project Description]](/assets/DLNLP-assignment.pdf) [[Report]](/assets/Report_DLNLP.pdf)
+</div>
 
 
 
