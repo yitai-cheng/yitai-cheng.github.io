@@ -34,7 +34,7 @@ During My MSc, I did several projects related to machine learning and data scien
   </div>
 </div>
 
-
+<div style="margin-left: 20px">
 <p class="toggle-button" onclick="toggleContent(this)"> <b>Data Acquisition and Processing Systems project</b> </p>
 <div class="content">
   <p>This project simulates a real-life data-science situation thatcan be approached using the process including data acquisition, storing, preprocessing, exploration and inferring. Concretely, this project analyze the stocks data of American Airlines(AAL) and its correlation with weather and covid-19 data. The data is acquired by relevant application programming interface including Yahoo! Finance, NOAA,
@@ -42,7 +42,9 @@ and CDC API. Then the acquired data is stored both locally and in the cloud by M
   </p>
 <p><a href="https://github.com/yitai-cheng/DAPS_assignment22_23">[Python code]</a> <a href="/assets/DAPS-assignment.pdf">[Project Description]</a> <a href="/assets/Report_DAPS.pdf">[Report]</a></p>
 </div>
+</div>
 
+<div style="margin-left: 20px">
 <p class="toggle-button" onclick="toggleContent(this)"> <b>Applied Machine Learning Systems I project </b> </p>
 <div class="content">
   <p>
@@ -50,7 +52,9 @@ There are two categories of tasks raised in this mini project. They are binary c
   </p>
   <p><a href="https://github.com/yitai-cheng/AMLS_assignment22_23">[Python code]</a> <a href="/assets/AMLS-assignment.pdf">[Project Description]</a> <a href="/assets/Report_AMLS.pdf">[Report]</a></p>
 </div>
+</div>
 
+<div style="margin-left: 20px">
 <p class="toggle-button" onclick="toggleContent(this)"> <b>Applied Machine Learning Systems II project </b> </p>
 <div class="content">
   <p>
@@ -58,14 +62,16 @@ A malignant tumor in the brain is a life-threatening condition. The presence of 
   </p>
   <p><a href="https://github.com/yitai-cheng/AMLS_II_assignment22_23">[Python code]</a> <a href="/assets/AMLS_II-assignment.pdf">[Project Description]</a> <a href="/assets/Report_AMLSII.pdf">[Report]</a>  </p>
 </div>
+</div>
 
+<div style="margin-left: 20px">
 <p class="toggle-button" onclick="toggleContent(this)"> <b>Deep Learning for Natural Language Processing project </b> </p>
 <div class="content">
   <p>
     Recurrent Neural Networks (RNNs) are powerful models that have achieved excellent performance on sequence learning tasks. Although RNNs work well whenever large labeled training sets are available, they suffer from dealing with long squences. In this project, we present a general end-to-end approach to sequence learning that uses an encoder to map the input sequence to a context vector, and then another decoder to convert the vector to the target sequence. Then, we introduce attention mechanism enabling the decoder to focus on a certain part of the input sequence in each decoding step. Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the sequence to sequence model with greedy search algorithm achieve a BLEU score of 23.57 on the entire test set, where the LSTM’s BLEU score was penalized on out-of-vocabulary words. Additionally, beam search could improve the model performance due to its ability to explore on a larger result set. For comparison, a sequence to sequence model with beam size 2 achieves a BLEU score of 24.24 on the same test-set. Moreover, the upgraded sequence to sequence with attention model also achieves a higher BLEU score of 25.33 with greedy search. Finally, we found that stacking more than one LSTM (Multi-Layer LSTM) will improve the model’s performance markedly, because LSTM networks with multiple layers have higher modeling capacity compared to single-layer LSTM networks.
   </p>
     <p><a href="https://github.com/yitai-cheng/ELEC0141_Project">[Python code]</a> <a href="/assets/DLNLP-assignment.pdf">[Project Description]</a> <a href="/assets/Report_DLNLP.pdf">[Report]</a></p> 
-
+</div>
 </div>
 
 
