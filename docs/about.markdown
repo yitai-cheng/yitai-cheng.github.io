@@ -11,7 +11,6 @@ permalink: /about/
   }
   .toggle-button {
     cursor: pointer;
-    text-decoration: underline;
     background-color: #e0e0e0;
   }
   p {
