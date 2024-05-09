@@ -10,7 +10,6 @@ permalink: /about/
   }
   .toggle-button {
     cursor: pointer;
-    color: blue;
     text-decoration: underline;
   }
 </style>
