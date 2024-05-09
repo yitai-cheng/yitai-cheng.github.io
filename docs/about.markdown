@@ -13,6 +13,9 @@ permalink: /about/
     cursor: pointer;
     text-decoration: underline;
   }
+  p {
+    text-align: justify; /* Aligns text within the paragraph */
+  }
 </style>
 
 <img src="/assets/images/yitai-cheng.JPG" width="100" style="float: left; margin-right: 10px;"> Hi, My name is Yitai Cheng (程翊泰 in Chinese). I am currently seeking Ph.D. positions in Artificial Intelligence and Machine Learning related fields. 
