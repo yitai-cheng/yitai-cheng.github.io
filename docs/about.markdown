@@ -13,7 +13,6 @@ permalink: /about/
     cursor: pointer;
     text-decoration: underline;
     background-color: #e0e0e0;
-    margin-left: 20px;
   }
   p {
     text-align: justify; /* Aligns text within the paragraph */
@@ -26,13 +25,15 @@ permalink: /about/
 I obtained my MSc Integrated Machine Learning Systems with distinction from University College London (UCL) in December 2023. Before that I was an undergraduate student studying Telecommunications Engineering with Management registered in Queen Mary University of London (QMUL) and Beijing University of Posts and Telecommunications (BUPT). I was awarded First Class Honours for my BSc(Eng) Telecommunications Engineering with Management by Queen Mary University of London.
 
 During My MSc, I did several projects related to machine learning and data science.
-
-<p class="toggle-button" onclick="toggleContent(this)"> <b>MSc Research Project: On-the-Sphere Residual Learning for Neural Compression of 360-degree Videos </b> </p>
-<div class="content">
-  <p>This project focus on the synergy of two current learning methods for video. The first is neural video compression, which improves traditional one certain steps. Traditional   compression captures motion between consecutive frames and performs linear transform and quantisation methods over the residual information in each frame to be encoded. Differently, neural video compression uses methods such as convolutional neural networks (CNNs) to capture motion and encoder-decoder architectures to propose to compress residual data. The second is spherical convolutional neural networks (CNNs) for 360-degree videos. The current compression of such 360-degree videos intensively relies on 2D planar projection and suffers from its distortion (e.g., poles are more sampled than equator). Therefore, neural compression using CNNs, which focus on 2D convolution over planar data, is damaged when applied to 360 videos. Some authors have evaluated the benefit of using spherical convolutions in learning tasks for 360 images. The project is experiments-oriented, and the student will focus on implementing neural compression methods but changing the CNN steps by ones using spherical convolutions.
-  </p>
-  <p><a href="https://github.com/yitai-cheng/MSc_IMLS_Research_Project.git">[Python code]</a> <a href="/assets/msc-dissertation.pdf">[Dissertation]</a></p>
+<div style="margin-left: 20px">
+  <p class="toggle-button" onclick="toggleContent(this)"> <b>MSc Research Project: On-the-Sphere Residual Learning for Neural Compression of 360-degree Videos </b> </p>
+  <div class="content">
+    <p>This project focus on the synergy of two current learning methods for video. The first is neural video compression, which improves traditional one certain steps. Traditional compression captures motion between consecutive frames and performs linear transform and quantisation methods over the residual information in each frame to be encoded. Differently, neural video compression uses methods such as convolutional neural networks (CNNs) to capture motion and encoder-decoder architectures to propose to compress residual data. The second is spherical convolutional neural networks (CNNs) for 360-degree videos. The current compression of such 360-degree videos intensively relies on 2D planar projection and suffers from its distortion (e.g., poles are more sampled than equator). Therefore, neural compression using CNNs, which focus on 2D convolution over planar data, is damaged when applied to 360 videos. Some authors have evaluated the benefit of using spherical convolutions in learning tasks for 360 images. The project is experiments-oriented, and the student will focus on implementing neural compression methods but changing the CNN steps by ones using spherical convolutions.
+    </p>
+    <p><a href="https://github.com/yitai-cheng/MSc_IMLS_Research_Project.git">[Python code]</a> <a href="/assets/msc-dissertation.pdf">[Dissertation]</a></p>
+  </div>
 </div>
+
 
 <p class="toggle-button" onclick="toggleContent(this)"> <b>Data Acquisition and Processing Systems project</b> </p>
 <div class="content">
