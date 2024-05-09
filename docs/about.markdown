@@ -13,6 +13,7 @@ permalink: /about/
     cursor: pointer;
     text-decoration: underline;
     background-color: #e0e0e0
+    margin-left: 20px;
   }
   p {
     text-align: justify; /* Aligns text within the paragraph */
