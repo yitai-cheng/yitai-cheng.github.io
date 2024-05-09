@@ -97,4 +97,14 @@ During my undergraduate, there were lots of coding assignment and mini-projects.
 </div>
 </div>
 
+<div style="margin-left: 20px">
+<p class="toggle-button" onclick="toggleContent(this)"> <b>A Health Management Application</b> </p>
+<div class="content">
+  <p>
+This project implements a diet tracking app that allows users to check the nutritional content and calories of foods, as well as record their daily meals. The homepage automatically displays the user's caloric and nutritional intake for the day. Users can also query their meal records for specific days on the diet tracking page. Additionally, the project includes a user login feature, allowing users to log in with an account and password or via phone number and SMS verification code, facilitating future features such as meal recommendations. The front-end is implemented by Vue, and the back-end is implemented using Spring Boot framework.
+  </p>
+    <p><a href="https://gitee.com/zh_kaiwei/health-hub_mini_program">[code]</a></p> 
+</div>
+</div>
+
 
