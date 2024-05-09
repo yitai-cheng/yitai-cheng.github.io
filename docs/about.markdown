@@ -86,5 +86,15 @@ A malignant tumor in the brain is a life-threatening condition. The presence of 
   }
 </script>
 
+During my undergraduate, there were lots of coding assignment and mini-projects. Here are several projects related to software development.
+<div style="margin-left: 20px">
+<p class="toggle-button" onclick="toggleContent(this)"> <b>A Digital Gym System</b> </p>
+<div class="content">
+  <p>
+    The software we developed is used for online gym operations under the new normal of the epidemic. This software can provide fitness enthusiasts with teaching videos of different categories and difficulties, as well as private live lessons. It can also provide gym staff with administrator functions to manage the system. As an agile software development team, we work in accordance with the steps introduced in the course. We strive to ensure that the software meets the potential needs of customers and complete all requirements in the handout. The following content is about how we manage the development process.
+  </p>
+    <p><a href="https://github.com/NeverMore2020/software-engineering-project/tree/main/Software">[Java code]</a> <a href="https://github.com/NeverMore2020/software-engineering-project/blob/main/Software/Usermanual_group09.pdf">[User Manual]</a> <a href="https://github.com/NeverMore2020/software-engineering-project/blob/main/FinalReport_group09.pdf">[Report]</a></p> 
+</div>
+</div>
 
 
